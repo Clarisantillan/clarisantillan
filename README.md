@@ -32,7 +32,7 @@ Soy una profesional especializada en Backend Python con experiencia en Data Scie
 - Otras: Hadoop, Spark
 
 
-- ## Proyectos Destacados en GitHub
+- ## Proyectos Destacados en GitHub 🌟
 
 1. [**data-ops-mind**](https://github.com/Clarisantillan/data-ops-mind.git)
 
