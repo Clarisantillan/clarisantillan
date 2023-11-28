@@ -1,5 +1,8 @@
-# 🚀 Clara Santillan - Desarrolladora Backend y Científica de Datos <!-- Logo
-Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+# 🚀 Clara Santillan - Desarrolladora Backend y Científica de Datos<p align="center">
+  
+ 
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Logo de Python">
+</p>
 
 ## Sobre mí
 Soy una profesional especializada en Backend Python con experiencia en Data Science, Data Engineering y Full Stack Development. Mi enfoque incluye metodologías ágiles, flujos de trabajo eficientes, y una sólida base en estructuras de datos, visualizaciones y evaluación de modelos de machine learning. Soy apasionada por la resolución de problemas, el aprendizaje ágil y el trabajo en equipo.
