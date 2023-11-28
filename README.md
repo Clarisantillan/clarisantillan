@@ -4,10 +4,10 @@
 <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Logo de Python">
 </p>
 
-## Sobre mí
+## Sobre mí 👩‍💻
 Soy una profesional especializada en Backend Python con experiencia en Data Science, Data Engineering y Full Stack Development. Mi enfoque incluye metodologías ágiles, flujos de trabajo eficientes, y una sólida base en estructuras de datos, visualizaciones y evaluación de modelos de machine learning. Soy apasionada por la resolución de problemas, el aprendizaje ágil y el trabajo en equipo.
 
-## Conocimientos
+## Conocimientos 📚
 - Metodologías ágiles
 - Estructura de datos
 - Visualizaciones
@@ -22,7 +22,7 @@ Soy una profesional especializada en Backend Python con experiencia en Data Scie
 - Herramientas: Power BI, Seaborn, Streamlit, FastAPI
 - Control de versiones: Git
 
-## Tecnologías
+## Tecnologías 🧰
 - Lenguajes: Python
 - Bibliotecas: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 - Plataformas: Google Colab, Render
@@ -61,7 +61,7 @@ Soy una profesional especializada en Backend Python con experiencia en Data Scie
    - 🛒 Proyecto como Full Stack Developer Freelance para la creación y gestión de un Ecommerce de artículos de limpieza. Incluye implementación de modelos, carrito de compras, autenticación y servicio de emails automáticos.
 
 
-## Contacto
+## Contacto 📥
 - LinkedIn: [Clara Santillan](https://www.linkedin.com/in/clarasantillan/)
 - Portafolio: [clarasantillan.netlify.app](https://clarasantillan.netlify.app)
 - Correo electrónico: clarisantillan@icloud.com
