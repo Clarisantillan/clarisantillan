@@ -1,4 +1,5 @@
-# Clara Santillan - Desarrolladora Backend y Científica de Datos
+# 🚀 Clara Santillan - Desarrolladora Backend y Científica de Datos <!-- Logo
+Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
 ## Sobre mí
 Soy una profesional especializada en Backend Python con experiencia en Data Science, Data Engineering y Full Stack Development. Mi enfoque incluye metodologías ágiles, flujos de trabajo eficientes, y una sólida base en estructuras de datos, visualizaciones y evaluación de modelos de machine learning. Soy apasionada por la resolución de problemas, el aprendizaje ágil y el trabajo en equipo.
@@ -33,7 +34,7 @@ Soy una profesional especializada en Backend Python con experiencia en Data Scie
 1. [**data-ops-mind**](https://github.com/Clarisantillan/data-ops-mind.git)
 
   
-   - Descripción: Proyecto de análisis del mercado estadounidense. Incluye análisis de datos de locales desde Yelp y Google Maps. Implementación de soluciones de aprendizaje automático y diseño de interfaz de recomendación en Streamlit.
+   - 🌐 Proyecto de análisis del mercado estadounidense. Incluye análisis de datos de locales desde Yelp y Google Maps. Implementación de soluciones de aprendizaje automático y diseño de interfaz de recomendación en Streamlit.
 
 
 
@@ -41,20 +42,20 @@ Soy una profesional especializada en Backend Python con experiencia en Data Scie
 2. [**PI_ML_OPS_sistema_de_recomedacion**](https://github.com/Clarisantillan/PI_ML_OPS_sistema_de_recomedacion)
 
    
-   - Descripción: Proyecto de MLOps Engineer para un sistema de recomendación de películas. Incluye ingeniería de datos, análisis exploratorio y machine learning.
+   - 🎥Proyecto de MLOps Engineer para un sistema de recomendación de películas. Incluye ingeniería de datos, análisis exploratorio y machine learning.
 
 3. [**PI2_DA_telecomunicaciones**](https://github.com/Clarisantillan/PI2_DA_telecomunicaciones)
-   - Descripción: Proyecto de Data Analyst sobre el análisis de telecomunicaciones en Argentina. Incluye exploración de archivos de datos, análisis exploratorio y construcción de un dashboard interactivo.
+   - 📡 Proyecto de Data Analyst sobre el análisis de telecomunicaciones en Argentina. Incluye exploración de archivos de datos, análisis exploratorio y construcción de un dashboard interactivo.
 
 4. [**Sistema de Monitoreo**](https://github.com/Clarisantillan/Sistema-Monitoreo)
 
   
-   - Descripción: Desarrollo individual de un sistema automatizado de monitoreo web utilizando Python y Selenium. Implementado en Google Colab para detectar cambios en el contenido de páginas web de noticias deportivas.
+   - 🕵️ Desarrollo individual de un sistema automatizado de monitoreo web utilizando Python y Selenium. Implementado en Google Colab para detectar cambios en el contenido de páginas web de noticias deportivas.
 
 5. [**Casa Limpia Ecommerce**](https://github.com/Clarisantillan/Casa-Limpia-Ecommerce)
 
    
-   - Descripción: Proyecto como Full Stack Developer Freelance para la creación y gestión de un Ecommerce de artículos de limpieza. Incluye implementación de modelos, carrito de compras, autenticación y servicio de emails automáticos.
+   - 🛒 Proyecto como Full Stack Developer Freelance para la creación y gestión de un Ecommerce de artículos de limpieza. Incluye implementación de modelos, carrito de compras, autenticación y servicio de emails automáticos.
 
 
 ## Contacto
