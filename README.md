@@ -17,7 +17,7 @@ Soy una profesional especializada en Backend Python con experiencia en Data Scie
 - Ingeniería de datos
 - Generación de reportes con Python, SQL, Spark
 - ETL (Extract, Transform, Load)
-- Cloud Storage (Google Cloud Storage)
+- Cloud Storage (Google Cloud Storage), Cloud Function, Cloud Scheduler
 - Base de datos: Google BigQuery, MySQL, PostgreSQL
 - Herramientas: Power BI, Seaborn, Streamlit, FastAPI
 - Control de versiones: Git
@@ -25,7 +25,7 @@ Soy una profesional especializada en Backend Python con experiencia en Data Scie
 ## Tecnologías 🧰
 - Lenguajes: Python
 - Bibliotecas: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
-- Plataformas: Google Colab, Render
+- Plataformas: Google Cloud Platform, Google Colab, Render
 - Frameworks: Django
 - Contenedores: Docker
 - Bases de datos: MySQL, PostgreSQL, MongoDB
